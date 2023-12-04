@@ -28,6 +28,6 @@ Login Button Should Be Visible On Login Page
     Element Should Be Visible    ${SIGN_IN_BUTTON}
 
 Login Page Should Contain Error Message
-    Wait Until Page Contains    ${ERROR_MESSAGE}
-    Page Should Contain Text    ${ERROR_MESSAGE}
+    Wait Until Page Contains    ${ERROR_MESSAGE_INVALID_CREDENTIALS}
+    Page Should Contain Text    ${ERROR_MESSAGE_INVALID_CREDENTIALS}
 
