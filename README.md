@@ -2,4 +2,4 @@
 
 | Anggota Kelompok | Pembagian Tugas          |
 | ---------------  | ------------------------ |
-| Agung Sepruloh   | Login                    |
+| Agung Sepruloh   | Login, Search            |
